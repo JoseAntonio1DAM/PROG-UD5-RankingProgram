@@ -1,5 +1,10 @@
 package com.microsoft.lugares;
 
+/**
+ * Clase Playa, esta clase sirve para simular el 'elemento', es decir, es nuestra clase Elemento.
+ * 
+ */
+
 public class Playa {
     private String nombre;
     private String ubicacion;
